@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Garage Door Opener</string>
+    <string name="CommsStatusDefault">Searching</string>
+    <string name="CommsStatusOk">Connected</string>
+    <string name="CommsStatusFail">Error</string>
+    <string name="CommsStatusJsonError">JSON Error</string>
+    <string name="RedSensorOnValue">Door Open</string>
+    <string name="RedSensorOffValue">Door Closed</string>
+    <string name="RedSensorUnknownValue">Checking</string>
+
+
+    <!-- error messages -->
+    <string name="Error.WrongNetwork">Error: Incorrect WiFi network. Please make sure you are connected to your home network.</string>
+    <string name="Error.NoNetwork">Error: WiFi not connected. Please make sure you are connected to your home network.</string>
+    <string name="Error.TimeOut">Error: cannot connect to garage door opener.</string>
+    <string name="NetCheck.LoadingText">Loading</string>
+    <string name="Error.BadThing">A bad thing happened. Try again, or bug Chris.</string>
+</resources>
